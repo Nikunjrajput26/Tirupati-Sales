@@ -1,0 +1,86 @@
+[
+  {
+    "id": "featured-smart-infrastructure",
+    "title": "Smart Infrastructure in Electrical Distribution: How We Deliver Faster",
+    "excerpt": "From sizeable inventory to prompt delivery — a look at what makes our supply chain tick.",
+    "content": "# Smart Infrastructure in Electrical Distribution\n\nAt Tirupati Sales Corporation, speed isn't an accident. It's the result of smart warehousing, strong IT, and tight coordination with 30+ brands. Here's how we keep projects moving without stockouts...\n\n## What 'Fastest Delivery' actually means\n- Real‑time stock visibility across categories (lighting, switchgear, wires & cables).\n- City‑wide routing and ready‑to-dispatch kits for common BOQs.\n- Pre‑QC to cut returns.\n\n## Where it helps you\n- Projects stay on schedule.\n- Less capital locked in buffer stock.\n- Predictable handovers.\n\n*Talk to us at sales@tirupatisales.com.*",
+    "image": "../src/assets/blog/1.jpg",
+    "category": "Company",
+    "author": "Tirupati Editorial",
+    "date": "2025-08-18",
+    "featured": true,
+    "readTime": 4
+  },
+  {
+    "id": "lighting-architectural-trends",
+    "title": "Architectural Lighting: Practical Picks for Facades & Landscapes",
+    "excerpt": "DMX RGB is great — until maintenance hits. Here’s what to consider before you spec.",
+    "content": "# Architectural Lighting: Practical Picks\n\nFacade lighting looks stunning. It also needs to be serviceable. We cover optics, ingress protection, drivers, and control topology so your façade stays bright for years...Practical Picks\n\nFacade lighting looks stunning. It also needs to be serviceable. We cover optics, ingress protection, drivers, and control topology so your façade stays bright for years...Practical Picks\n\nFacade lighting looks stunning. It also needs to be serviceable. We cover optics, ingress protection, drivers, and control topology so your façade stays bright for years...Practical Picks\n\nFacade lighting looks stunning. It also needs to be serviceable. We cover optics, ingress protection, drivers, and control topology so your façade stays bright for years...Practical Picks\n\nFacade lighting looks stunning. It also needs to be serviceable. We cover optics, ingress protection, drivers, and control topology so your façade stays bright for years...Practical Picks\n\nFacade lighting looks stunning. It also needs to be serviceable. We cover optics, ingress protection, drivers, and control topology so your façade stays bright for years...",
+    "image": "../src/assets/blog/1.jpg",
+    "category": "Lighting",
+    "author": "Projects Team",
+    "date": "2025-08-12",
+    "featured": false,
+    "readTime": 5
+  },
+  {
+    "id": "switchgear-basics-mccb-rcbo",
+    "title": "MCB vs MCCB vs RCCB vs RCBO: Quick Builder Guide",
+    "excerpt": "The four devices people mix up the most. Here’s a plain‑English cheat sheet.",
+    "content": "# Quick Builder Guide\n\nWhen to use what, breaking capacity, trip curves, and coordination explained with simple tables and site use‑cases...",
+    "image": "../src/assets/blog/1.jpg",
+    "category": "Switchgear",
+    "author": "Technical Desk",
+    "date": "2025-08-10",
+    "featured": false,
+    "readTime": 6
+  },
+  {
+    "id": "wires-cables-fire-survival",
+    "title": "Fire Survival Cables: Spec Right, Sleep Better",
+    "excerpt": "What FRLSH, AFUM, and PH120 actually mean for real projects.",
+    "content": "# Fire Survival Cables\n\nAlphabet soup decoded: jacket materials, smoke density, halogen ratings, and realistic routing tips for retrofits...",
+    "image": "../src/assets/blog/1.jpg",
+    "category": "Cables & Wires",
+    "author": "Compliance Team",
+    "date": "2025-08-05",
+    "featured": false,
+    "readTime": 7
+  },
+  {
+    "id": "panels-apfc-harmonics",
+    "title": "APFC Panels and Harmonics: Do It Once, Do It Right",
+    "excerpt": "Capacitors, detuning reactors, and why your PF controller keeps hunting.",
+    "content": "# APFC & Harmonics\n\nSizing rules, THDi pitfalls, and a field checklist before energisation...",
+    "image": "../src/assets/blog/1.jpg",
+    "category": "Panels",
+    "author": "Panel Division",
+    "date": "2025-07-28",
+    "featured": false,
+    "readTime": 6
+  },
+  {
+    "id": "elv-cctv-bms-starter",
+    "title": "ELV Systems: Smooth Handshakes Between CCTV, ACS, and BMS",
+    "excerpt": "Design once. Commission once. Keep it interoperable.",
+    "content": "# ELV Systems\n\nCore topologies, addressing, and practical tips for integration across vendors...",
+    "image": "../src/assets/blog/1.jpg",
+    "category": "ELV",
+    "author": "ELV Projects",
+    "date": "2025-07-20",
+    "featured": false,
+    "readTime": 5
+  },
+  {
+    "id": "earthing-101",
+    "title": "Chemical Earthing vs Conventional: Field Notes",
+    "excerpt": "Plate, pipe, and chemical — what works best on black cotton soil?",
+    "content": "# Earthing 101\n\nSoil testing, resistance targets, and clamp selections that hold up in monsoons...",
+    "image": "../src/assets/blog/1.jpg",
+    "category": "Earthing",
+    "author": "Service Team",
+    "date": "2025-07-15",
+    "featured": false,
+    "readTime": 4
+  }
+]
