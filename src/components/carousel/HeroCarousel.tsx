@@ -70,7 +70,14 @@ export function HeroCarousel() {
                 </div>
               </div>
             </div> */}
-            <HeroCard />
+            <HeroCard
+  onScrollToProducts={() => {
+    document
+      .getElementById("products-section")
+      ?.scrollIntoView({ behavior: "smooth" });
+  }}
+/>
+
           </CarouselItem>
         ))}
       </CarouselContent>
